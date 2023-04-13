@@ -1,1 +1,3 @@
- hi hello check the merge conflict
+ hi hello check the merge conflicti
+
+ hi 
